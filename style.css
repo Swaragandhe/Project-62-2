@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+}
+#img1 {
+ width: 500px;
+    height: 500px;
+}
+
+.img2 {
+    width: 300px;
+    height: 250px;
+}
+.links{
+display:inline;
+font-size:20px;
+padding-left:35px;
+padding-right:35px;
+
+}
+
+#myCarousel
+{
+    background-color: red;
+}
+
+#myCarousel img
+{
+    height: 1000px;
+       }
+
+.carousel-inner p
+{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color : white;
+    font-size: 20px;
+}
+
